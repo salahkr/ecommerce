@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>متجر عربي | قميص تك فت بيز</title>
+    <script type="text/html" src="{require('index.js')}"></script>
+</head>
+
+
+<body>
+    <div class="container-fluid">
+        <!-- قائمة التنقل -->
+        <div class="row">
+            <nav class="navbar custom-navbar navbar-expand-lg">
+                <div class="container">
+                    <!--شعار المتجر-->
+                    <div class="navbar-header">
+                        <button class="navbar-toggler btn btn-icon collapsed" data-toggle="collapse"
+                            data-target="#navbar-collapsed-menu">
+                            <i class="fas fa-bars"></i>
+                        </button>
+                        <a href="./checkout.html" class="navbar-toggler btn btn-icon">
+                            <i class="fas fa-shopping-cart"></i>
+                        </a>
+                        <a href="." class="navbar-brand">
+                            <img src="./images/logo.png" alt="متجر عربي">
+                        </a>
+                    </div>
+                    <!--نهاية شعر المتجر-->
+
+                    <!--مربع البحث والقائمة المنسدلة -->
+                    <form class="form-inline">
+                        <!--مربع البحث-->
+                        <input type="search" class="form-control custom-form-control" placeholder="ابحث..">
+                        <!--القائمة المنسدلة-->
+                        <div class="dropdown categories">
+                            <a href="#" class="nav-link dropdown-toggle custom-btn" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-expanded="false">
+                                اختر فئة
+                            </a>
+                            <ul class="dropdown-menu custom-dropdown-menu dropdown-menu-rigth">
+                                <li>
+                                    |<div class="checkbox">
+                                        <label>
+                                            <input type="checkbox" name="search-category" value="men">
+                                            رجالي
+                                        </label>
+                                    </div>
+                                </li>
+                                <li>
+                                    |<div class="checkbox">
+                                        <label>
+                                            <input type="checkbox" name="search-category" value="women">
+                                            نسائي
+                                        </label>
+                                    </div>
+                                </li>
+                                <li>
+                                    |<div class="checkbox">
+                                        <label>
+                                            <input type="checkbox" name="search-category" value="kids">
+                                            اطفال
+                                        </label>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <!--اضافة زر البحث -->
+                        <button type="submit" class="btn search-btn">
+                            ابحث
+                        </button>
+                    </form>
+                    <!--نهاية مربع البحث والقائمة المنسدلة-->
+
+                    <div class="collapse navbar-collapse" id="navbar-collapsed-menu">
+                        <!--الصفحات الاخرى في المتجر-->
+                        <ul class="navbar-nav mr-auto">
+                            <!--الصفحة الاولى-->
+                            <li class="nav-item">
+                                <a href="#" class="nav-link">الصفحة الرئيسية</a>
+                            </li>
+                            <!--نهاية الصفحة الاولى-->
+
+                            <!--الصفحة الثانية بداخلها القائكة المنسدلة الخاصة بالاقسام-->
+                            <li class="nav-item dropdown">
+                                <a href="" class="nav-link dropdown-toggle" id="navbarDropdown" role="button"
+                                    data-toggle="dropdown" aria-expanded="false">أقسام المتجر</a>
+                                <ul class="dropdown-menu custom-dropdown-menu">
+                                    <li>
+                                        <a href="#" class="dropdown-item">رجالي</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-item">نسائي</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="dropdown-item">اطفال</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <!--نهاية الصحفة الثانية-->
+
+                            <!--الصفحة الثالثة-->
+                            <li class="nav-item">
+                                <a href="search.html" class="nav-link">البحث المتقدم</a>
+                            </li>
+                            <!--نهاية الصفحة الثالثة -->
+
+                            <!--الصحفة الرابعة-->
+                            <li class="nav-item">
+                                <a href="contact.html" class="nav-link">تواصل معنا</a>
+                            </li>
+                            <!--نهاية الصفحة الرابعة-->
+
+                            <!--ايقونة عربة التسوق -->
+                            <li class="d-none d-lg-block">
+                                <a href="checkout.html" id="btn-shoppingcart" class="btn custom-btn btn-icon"
+                                    title="عربة الشراء" data-toggle="tooltip" data-placement="bottom">
+                                    <i class="fas fa-shopping-cart"></i>
+                                </a>
+                            </li>
+                            <!--نهاية ايقونة عربة التسوق-->
+
+                        </ul>
+                        <!--نهاية القائمة الخاصة بالصفحات-->
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <!--نهاية قائمة التنقل -->
+
+        <div class="container">
+            <!--قسم الاشارة الى موقع الصفحة -->
+            <div class="row">
+                <ol class="breadcrumb custom-breadcrumb">
+                    <li>
+                        <a href=".">الصحفة الرئيسية</a>
+                    </li>
+                    <li>
+                        <a href="#">ملابس رجالي</a>
+                    </li>
+                    <li class="active">قميص تك فيت بيز</li>
+                </ol>
+            </div>
+            <!--نهاية قسم الاشارة الى موقع الصفحة -->
+
+            <!--تفاصيل المنتج -->
+            <div class="col-12 borders-between">
+                <div class="row">
+                    <!--العامود الاول -->
+                    <div class="col-lg-5 offset-lg-1 col-md-9 offset-md-2">
+                        <!--عارض الشرائج -->
+                        <div class="carousel slide" id="carousel-product-images" data-ride="carousel">
+                            <div class="carousel-inner">
+                                <!--الشريحة الاولى -->
+                                <div class="carousel-item active">
+                                    <img src="images/product_1.jpg" alt="صورة امامية للقميص">
+                                </div>
+                                <!--نهاية الشريحة الاولى -->
+
+                                <!--الشريحة الثانية -->
+                                <div class="carousel-item">
+                                    <img src="images/product_2.jpg" alt="صورة خلفية للقميص">
+                                </div>
+                                <!--نهاية الشريحة الثانية -->
+                            </div>
+                            <!--نقاط التنقل بين الشرائح -->
+                            <div class="carousel-indicators custom-carousel-indicators-primary">
+                                <img data-target="#carousel-product-images" data-slide-to="0" class="active"
+                                    src="images/product_1.jpg" alt="صورة امامية للقميص">
+                                <img data-target="#carousel-product-images" data-slide-to="1" src="images/product_2.jpg"
+                                    alt="صورة خلفية للقميص">
+                            </div>
+                            <!--نهاية نقاط التنقل بين الشرائح -->
+                        </div>
+                        <!--نهاية عارض الشرائح -->
+                    </div>
+                    <!--نهاية العامود الاول -->
+
+                    <!--العامود الثاني -->
+                    <div class="col-lg-5">
+                        <!--بداية النموذج -->
+                        <form id="form-product-selection" class="borders-between">
+                            <!--الفئة والعنوان والسعر -->
+                            <div class="row">
+                                <!--الفئة -->
+                                <div class="product-category block-100">
+                                    ملابس رجالي
+                                </div>
+                                <div class="clearfix block-100">
+                                    <!--عنوان المنتج -->
+                                    <h2 class="float-right">
+                                        قميص تك فت بيز
+                                    </h2>
+
+                                    <!--سعر المنتج -->
+                                    <div class="float-left large price">
+                                        35$
+                                    </div>
+                                </div>
+                            </div>
+                            <!--نهاية الفئة والعنوان والسعر -->
+
+                            <!--وصف المنتج -->
+                            <div class="row">
+                                <p class="product-description">
+                                    حقق اقصى اداء اثناء تمارينك الرياضية مع قميص تك فت بيز الرياضي الذي يمنحك الراحة
+                                    ويدعم عضلاتك
+                                </p>
+                            </div>
+                            <!--نهاية وصف المنتج-->
+
+                            <!--الماركة والتقييم -->
+                            <div class="row brand-rating">
+                                <!--العامود الاول -->
+                                <div class="col-6">
+                                    <!--الماركة -->
+                                    <div class="brand">
+                                        الماركة :
+                                        <img src="images/adidas_small.png" alt="Adidas">
+                                    </div>
+                                    <!--نهاية الماركة -->
+                                </div>
+                                <!--نهاية العامود الاول-->
+
+                                <!--العامود الثاني -->
+                                <div class="col-6">
+                                    <!--التقييم -->
+                                    <div class="clearfix">
+                                        <div class="rating float-left">
+                                            <i class="fas fa-star active"></i>
+                                            <i class="fas fa-star active"></i>
+                                            <i class="fas fa-star active"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                        </div>
+                                    </div>
+                                    <!--نهاية التقييم -->
+                                </div>
+                                <!--نهاية العامود الثاني -->
+                            </div>
+                            <!--نهاية الماركة والتقييم -->
+
+                            <!--اختيار المقاس واللون -->
+                            <div class="row size-and-color">
+                                <!--العامود الاول -->
+                                <div class="col-md-6">
+                                    <!--المقاسات -->
+                                    المقاسات المتاحة :
+                                    <br>
+                                    <!--المقاس الاول -->
+                                    <div class="product-option">
+                                        <label>
+                                            S
+                                            <input type="radio" name="size" value="sm">
+                                        </label>
+                                    </div>
+                                    <!--المقاس الثاني -->
+                                    <div class="product-option active">
+                                        <label>
+                                            M
+                                            <input type="radio" name="size" value="m" checked>
+                                        </label>
+                                    </div>
+                                    <!--المقاس الثالث-->
+                                    <div class="product-option">
+                                        <label>
+                                            L
+                                            <input type="radio" name="size" value="l">
+                                        </label>
+                                    </div>
+                                    <!--المقاس الرابع -->
+                                    <div class="product-option">
+                                        <label>
+                                            XL
+                                            <input type="radio" name="size" value="xl">
+                                        </label>
+                                    </div>
+                                    <!--انتهاء المقاسات -->
+                                </div>
+                                <!--انتهاء العامود الاول -->
+
+                                <!--العامود الثاني -->
+                                <div class="col-md-6">
+                                    <!--اختيار اللون -->
+                                    الالوان المتاحة :
+                                    <br>
+                                    <!--اللون الاول -->
+                                    <div class="product-option color-option" style="background-color: #FFAF32;">
+                                        <label>
+                                            &nbsp;
+                                            <input type="radio" name="color" value="orange">
+                                        </label>
+                                    </div>
+                                    <!--اللون الثاني -->
+                                    <div class="product-option color-option" style="background-color: #FF322C;">
+                                        <label>
+                                            &nbsp;
+                                            <input type="radio" name="color" value="red">
+                                        </label>
+                                    </div>
+                                    <!--اللون الثالث -->
+                                    <div class="product-option color-option" style="background-color: #AC3886;">
+                                        <label>
+                                            &nbsp;
+                                            <input type="radio" name="color" value="pruple">
+                                        </label>
+                                    </div>
+                                    <!--اللون الرابع -->
+                                    <div class="product-option active color-option" style="background-color: #00C1CE;">
+                                        <label>
+                                            &nbsp;
+                                            <input type="radio" name="color" value="blue">
+                                        </label>
+                                    </div>
+                                </div>
+                                <!--انتهاء العامود الثاني -->
+                            </div>
+                            <!--انتهاء اختيار المقاس واللون -->
+
+                            <!--العدد المطلوب -->
+                            <div class="row product-quantity">
+                                <div class="col-12">
+                                    <div class="clearfix">
+                                        <div class="float-right label">
+                                            العدد المطلوب :
+                                        </div>
+                                        <div class="float-right">
+                                            <select class="form-control custom-form-control">
+                                                <option value="1">1</option>
+                                                <option value="2">2</option>
+                                                <option value="3">3</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--نهاية العدد المطلوب -->
+
+                            <!--زر اضافة لعربة الشراء -->
+                            <div class="row">
+                                <div class="col-12">
+                                    <button type="submit" class="btn custom-btn-primaty2 custom-btn-with-icon">
+                                        <span>
+                                            اضافة لعربة الشراء
+                                            <i class="fas fa-cart-plus"></i>
+                                        </span>
+                                    </button>
+                                </div>
+                            </div>
+                            <!--انتهاء زر اضافة لعربة الشراء -->
+                        </form>
+                        <!--نهاية النموذج -->
+                    </div>
+                    <!--نهاية العامود الثاني -->
+                </div>
+
+                <!--الوصف التفصيلي للمنتج -->
+                <div class="more-description">
+                    <div class="col-12">
+                        <h3 class="custom-heading heading-with-border-bottom heading-inline">
+                            وصف المنتج
+                        </h3>
+                        <p>
+                            حقق اقصى اداء اثناء تمارينك الرياضية مع قميص تك فت بيز الرياضي الذي يمنحك الراحة ويدعم
+                            عضلاتك
+                        </p>
+                        <ul>
+                            <li>درزات ناعمة لتخفيف الاحتكاك والتشققات</li>
+                            <li>مصنع من 88% بوليستر</li>
+                            <li>مستورد</li>
+                        </ul>
+                    </div>
+                </div>
+                <!--نهاية الوصف التفصيلي للمنتج-->
+
+                <!--التعليقات على المنتج -->
+                <div class="row">
+                    <div class="comments block-100">
+                        <!--عنوان القسم -->
+                        <h3 class="custom-heading heading-with-border-bottom heading-inline">
+                            التعليقات على المنتج
+                        </h3>
+                        <!--نهاية عنوان القسم -->
+
+                        <div class="borders-between">
+                            <!--التعليق الاول -->
+                            <div class="row">
+                                <!--هيكلية بوتستراب للتعليقات-->
+                                <div class="media">
+                                    <img src="images/reviewer_1.jpg" alt="محمد هاني">
+                                    <div class="media-body">
+                                        <h4 class="media-heading">
+                                            محمد هاني
+                                        </h4>
+                                        <div class="rating">
+                                            <span class="fas fa-star active"></span>
+                                            <span class="fas fa-star active"></span>
+                                            <span class="fas fa-star active"></span>
+                                            <span class="fas fa-star active"></span>
+                                            <span class="fas fa-star"></span>
+                                        </div>
+                                        <p>
+                                            منتج جيد جدا أنصح بشرائه مصنوع من اقمشة عالية الجودة
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--نهاية التعليق الاول -->
+
+                            <!--التعليق الثاني -->
+                            <div class="row">
+                                <!--هيكلية بوتستراب للتعليقات-->
+                                <div class="media">
+                                    <img src="images/reviewer_2.jpg" alt="منى محمود">
+                                    <div class="media-body">
+                                        <h4 class="media-heading">
+                                            منى محمود
+                                        </h4>
+                                        <div class="rating">
+                                            <span class="fas fa-star active"></span>
+                                            <span class="fas fa-star active"></span>
+                                            <span class="fas fa-star active"></span>
+                                            <span class="fas fa-star active"></span>
+                                            <span class="fas fa-star"></span>
+                                        </div>
+                                        <p>
+                                            السعر مرتفع قليلا
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--نهاية التعليق الثاني -->
+                        </div>
+                    </div>
+                </div>
+                <!--نهاية التعليقات على المنتج -->
+
+                <!--اقترحنا لك -->
+                <div class="row suggestions">
+                    <h3 class="custom-heading col-12">
+                        اقترحنا لك 
+                    </h3>
+                    <!--البطاقة الاولى -->
+                    <div class="col-lg-3 col-md-4">
+                        <!--هيكلية بوتستراب للبطاقات-->
+                        <div class="card custom-thumbnail">
+                            <!--زر اضافة للعربة والطبقة الزرقاء -->
+                            <div class="overlay">
+                                <div class="btn btn-secondary custom-btn add-to-cart-btn">
+                                    اضافة للعربة
+                                    <i class="fas fa-cart-plus"></i>
+                                </div>
+                            </div>
+                            <!--نهاية زر اضافة للعربة والطبقة الزرقاء -->
+                            <img src="./images/most_sold_2.jpg" alt="">
+                            <div class="card-body">
+                                <div class="clearfix">
+                                    <h4 class="float-right">فلورا تي شيرت</h4>
+                                    <div class="price float-left">
+                                        200$
+                                    </div>
+                                </div>
+
+                                <!--تقييم المنتج بالنجوم -->
+                                <div class="rating">
+                                    <i class="fas fa-star active"></i>
+                                    <i class="fas fa-star active"></i>
+                                    <i class="fas fa-star active"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <!--نهاية تقييم المنتج -->
+                                <div class="clearfix">
+                                    <button class=" float-left btn btn-default custom-btn add-to-cart-btn d-block d-lg-none">
+                                        اضافة للعربة 
+                                        <i class="fas fa-cart-plus"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--نهاية البطاقة الاولى -->
+
+                    <!--البطاقة الثانية -->
+                    <div class="col-lg-3 col-md-4">
+                        <!--هيكلية بوتستراب للبطاقات-->
+                        <div class="card custom-thumbnail">
+                            <!--زر اضافة للعربة والطبقة الزرقاء -->
+                            <div class="overlay">
+                                <div class="btn btn-secondary custom-btn add-to-cart-btn">
+                                    اضافة للعربة
+                                    <i class="fas fa-cart-plus"></i>
+                                </div>
+                            </div>
+                            <!--نهاية زر اضافة للعربة والطبقة الزرقاء -->
+                            <img src="./images/most_sold_1.jpg" alt="">
+                            <div class="card-body">
+                                <div class="clearfix">
+                                    <h4 class="float-right">فلورا تي شيرت</h4>
+                                    <div class="price float-left">
+                                        150$
+                                    </div>
+                                </div>
+
+                                <!--تقييم المنتج بالنجوم -->
+                                <div class="rating">
+                                    <i class="fas fa-star active"></i>
+                                    <i class="fas fa-star active"></i>
+                                    <i class="fas fa-star active"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <!--نهاية تقييم المنتج -->
+                                <div class="clearfix">
+                                    <button class=" float-left btn btn-default custom-btn add-to-cart-btn d-block d-lg-none">
+                                        اضافة للعربة 
+                                        <i class="fas fa-cart-plus"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--نهاية البطاقة الثانية -->
+
+                    <!--البطاقة الثالثة -->
+                    <div class="col-lg-3 col-md-4">
+                        <!--هيكلية بوتستراب للبطاقات-->
+                        <div class="card custom-thumbnail">
+                            <!--ملصق الخصم -->
+                            <div class="sale">
+                                50%
+                            </div>
+                            <!--زر اضافة للعربة والطبقة الزرقاء -->
+                            <div class="overlay">
+                                <div class="btn btn-secondary custom-btn add-to-cart-btn">
+                                    اضافة للعربة
+                                    <i class="fas fa-cart-plus"></i>
+                                </div>
+                            </div>
+                            <!--نهاية زر اضافة للعربة والطبقة الزرقاء -->
+                            <img src="./images/most_sold_3.jpg" alt="">
+                            <div class="card-body">
+                                <div class="clearfix">
+                                    <h4 class="float-right">فلورا تي شيرت</h4>
+                                    <div class="price float-left">
+                                        300$
+                                    </div>
+                                </div>
+
+                                <!--تقييم المنتج بالنجوم -->
+                                <div class="rating">
+                                    <i class="fas fa-star active"></i>
+                                    <i class="fas fa-star active"></i>
+                                    <i class="fas fa-star active"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <!--نهاية تقييم المنتج -->
+                                <div class="clearfix">
+                                    <button class=" float-left btn btn-default custom-btn add-to-cart-btn d-block d-lg-none">
+                                        اضافة للعربة 
+                                        <i class="fas fa-cart-plus"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--نهاية البطاقة الثالثة -->
+
+                    <!--البطاقة الرابعة -->
+                    <div class="col-lg-3 col-md-4 d-none d-lg-block">
+                        <!--هيكلية بوتستراب للبطاقات-->
+                        <div class="card custom-thumbnail">
+                            <!--زر اضافة للعربة والطبقة الزرقاء -->
+                            <div class="overlay">
+                                <div class="btn btn-secondary custom-btn add-to-cart-btn">
+                                    اضافة للعربة
+                                    <i class="fas fa-cart-plus"></i>
+                                </div>
+                            </div>
+                            <!--نهاية زر اضافة للعربة والطبقة الزرقاء -->
+                            <img src="./images/polo_1.jpg" alt="">
+                            <div class="card-body">
+                                <div class="clearfix">
+                                    <h4 class="float-right">فلورا تي شيرت</h4>
+                                    <div class="price float-left">
+                                        400$
+                                    </div>
+                                </div>
+
+                                <!--تقييم المنتج بالنجوم -->
+                                <div class="rating">
+                                    <i class="fas fa-star active"></i>
+                                    <i class="fas fa-star active"></i>
+                                    <i class="fas fa-star active"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <!--نهاية تقييم المنتج -->
+                                <div class="clearfix">
+                                    <button class=" float-left btn btn-default custom-btn add-to-cart-btn d-block d-lg-none">
+                                        اضافة للعربة 
+                                        <i class="fas fa-cart-plus"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--نهاية البطاقة الرابعة-->
+                </div>
+                <!--نهاية اقترحنا لك -->
+            </div>
+        </div>
+
+        <!--تذييل الصفحة -->
+        <div id="footer" class="row">
+            <!--الشعارات -->
+            <div id="brand-logos" class="cool-12 text-center">
+                <span>المتجر وكيل معتمد لكبرى الشركات العالمية </span>
+                <div class="img-container">
+                    <img src="./images/lacoste.png" alt="lacoste">
+                    <img src="./images/adidas.png" alt="adidas">
+                    <img src="./images/puma.png" alt="puma">
+                    <img src="./images/polo.png" alt="polo">
+                </div>
+            </div>
+            <!--نهاية الشعارات -->
+
+            <!--شعار الموقع والروابط والنشرة البريدية -->
+            <div id="footer-nav" class="col-12 text-center">
+                <!--شعار الموقع -->
+                <div class="footer-logo">
+                    <a href="./">
+                        <img src="./images/logo_footer.png" alt="عربي">
+                    </a>
+                </div>
+                <!--نهاية شعار الموقع -->
+
+                <!--بداية الروابط -->
+                <div id="footer-nav-links" class="col-12 d-none d-md-block">
+                    <a href=".">الصفحة الرئيسية</a>
+                    <a href="search.html">البحث المتقدم</a>
+                    <a href="contact.html">تواصل معنا</a>
+                </div>
+                <!--نهاية الروابط -->
+
+                <!--نموذج الاشتراك بالنشرة البريدية -->
+                <div id="newsletter" class="col-md-6 offset-md-3">
+                    <form>
+                        <label for="footer-email">
+                            تابع النشرة البريدية لأحدث العروض
+                        </label>
+                        <br>
+                        <div class="input-group">
+                            <input type="email" class="form-control custom-form-control" placeholder="البريد الإلكتروني"
+                                name="email" required>
+                            <button type="submit" class="btn custom-btn custom-btn-primaty2">
+                                متابعة
+                            </button>
+                        </div>
+                    </form>
+                </div>
+                <!--نهاية نموذج الاشتراك بالنشرة البريدية-->
+            </div>
+            <!--نهاية شعار الموقع والروابط والنشرة البريدية -->
+
+            <!--بداية قسم حقوق الملكية -->
+            <div id="footer-copyright-social" class="col-12">
+                <div class="container">
+                    <div class="clearfix">
+                        <div id="copyright" class="float-right">
+                        </div>
+
+                        <!--ايقونات التواصل الاجتماعي-->
+                        <div id="social-icons" class="float-left">
+                            <a href="https://www.facebook.com">
+                                <i class="fab fa-facebook-square fa-lg"></i>
+                            </a>
+                            <a href="https://www.twitter.com">
+                                <i class="fab fa-twitter-square fa-lg"></i>
+                            </a>
+                            <a href="https://www.instagram.com">
+                                <i class="fab fa-instagram-square fa-lg"></i>
+                            </a>
+                        </div>
+                        <!--نهاية ايقونات التواصل الاجتماعي -->
+                    </div>
+                </div>
+            </div>
+            <!--نهاية قسم حقوق الملكية -->
+        </div>
+        <!--نهاية تذييل الصفحة -->
+    </div>
+</body>
+
+</html>
