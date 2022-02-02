@@ -1106,13 +1106,6 @@ contact page
         font-size: 20px;
     }
 
-    /* search page */
-    .ui-slider .ui-slider-handle {
-        height: 20px !important;
-        width: 20px !important;
-        top: -10px !important;
-    }
-
     /* contact page */
     #form-subscription {
         margin-bottom: 40px;

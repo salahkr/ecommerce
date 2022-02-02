@@ -718,17 +718,6 @@ eval("\n\n/* eslint-disable */\nfunction normalizeUrl(pathComponents) {\n  retur
 
 /***/ }),
 
-/***/ "./node_modules/@laylazi/bootstrap-rtl/dist/css/bootstrap-rtl.min.css":
-/*!****************************************************************************!*\
-  !*** ./node_modules/@laylazi/bootstrap-rtl/dist/css/bootstrap-rtl.min.css ***!
-  \****************************************************************************/
-/***/ ((module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138455\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/@laylazi/bootstrap-rtl/dist/css/bootstrap-rtl.min.css?");
-
-/***/ }),
-
 /***/ "./node_modules/jquery-ui/themes/base/accordion.css":
 /*!**********************************************************!*\
   !*** ./node_modules/jquery-ui/themes/base/accordion.css ***!
@@ -736,7 +725,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138539\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/accordion.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123621\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/accordion.css?");
 
 /***/ }),
 
@@ -747,7 +736,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138577\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/autocomplete.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123607\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/autocomplete.css?");
 
 /***/ }),
 
@@ -758,7 +747,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138550\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/button.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123666\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/button.css?");
 
 /***/ }),
 
@@ -769,7 +758,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138565\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/checkboxradio.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123631\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/checkboxradio.css?");
 
 /***/ }),
 
@@ -780,7 +769,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138571\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/controlgroup.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123636\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/controlgroup.css?");
 
 /***/ }),
 
@@ -791,7 +780,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138494\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/core.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123682\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/core.css?");
 
 /***/ }),
 
@@ -802,7 +791,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138610\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/datepicker.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123697\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/datepicker.css?");
 
 /***/ }),
 
@@ -813,7 +802,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138583\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/dialog.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123689\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/dialog.css?");
 
 /***/ }),
 
@@ -824,7 +813,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138515\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/draggable.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123598\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/draggable.css?");
 
 /***/ }),
 
@@ -835,7 +824,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138597\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/menu.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123658\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/menu.css?");
 
 /***/ }),
 
@@ -846,7 +835,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138616\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/progressbar.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123616\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/progressbar.css?");
 
 /***/ }),
 
@@ -857,7 +846,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138527\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/resizable.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123675\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/resizable.css?");
 
 /***/ }),
 
@@ -868,7 +857,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138545\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/selectable.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123612\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/selectable.css?");
 
 /***/ }),
 
@@ -879,7 +868,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138590\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/selectmenu.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123647\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/selectmenu.css?");
 
 /***/ }),
 
@@ -890,7 +879,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138604\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/slider.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123662\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/slider.css?");
 
 /***/ }),
 
@@ -901,7 +890,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138533\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/sortable.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123603\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/sortable.css?");
 
 /***/ }),
 
@@ -912,7 +901,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138622\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/spinner.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123654\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/spinner.css?");
 
 /***/ }),
 
@@ -923,7 +912,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138636\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/tabs.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123641\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/tabs.css?");
 
 /***/ }),
 
@@ -934,7 +923,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138836\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/theme.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123971\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/theme.css?");
 
 /***/ }),
 
@@ -945,7 +934,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138630\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/tooltip.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123703\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./node_modules/jquery-ui/themes/base/tooltip.css?");
+
+/***/ }),
+
+/***/ "./src/SCSS/custom.scss":
+/*!******************************!*\
+  !*** ./src/SCSS/custom.scss ***!
+  \******************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123585\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./src/SCSS/custom.scss?");
 
 /***/ }),
 
@@ -956,7 +956,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643037138786\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./src/css/style.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123714\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./src/css/style.css?");
+
+/***/ }),
+
+/***/ "./src/scss/style.scss":
+/*!*****************************!*\
+  !*** ./src/scss/style.scss ***!
+  \*****************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n    if(true) {\n      // 1643627123593\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"../\",\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://ecummerc/./src/scss/style.scss?");
 
 /***/ }),
 
@@ -1233,7 +1244,7 @@ eval("var logLevel = \"info\";\n\nfunction dummy() {}\n\nfunction shouldLog(leve
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _laylazi_bootstrap_rtl_dist_css_bootstrap_rtl_min_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @laylazi/bootstrap-rtl/dist/css/bootstrap-rtl.min.css */ \"./node_modules/@laylazi/bootstrap-rtl/dist/css/bootstrap-rtl.min.css\");\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./css/style.css */ \"./src/css/style.css\");\n/* harmony import */ var bootstrap_dist_js_bootstrap_min_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! bootstrap/dist/js/bootstrap.min.js */ \"./node_modules/bootstrap/dist/js/bootstrap.min.js\");\n/* harmony import */ var bootstrap_dist_js_bootstrap_min_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(bootstrap_dist_js_bootstrap_min_js__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var jquery_dist_jquery_min__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! jquery/dist/jquery.min */ \"./node_modules/jquery/dist/jquery.min.js\");\n/* harmony import */ var jquery_dist_jquery_min__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(jquery_dist_jquery_min__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _fortawesome_fontawesome_free_js_all_min__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @fortawesome/fontawesome-free/js/all.min */ \"./node_modules/@fortawesome/fontawesome-free/js/all.min.js\");\n/* harmony import */ var _fortawesome_fontawesome_free_js_all_min__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_fontawesome_free_js_all_min__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var webpack_jquery_ui__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! webpack-jquery-ui */ \"./node_modules/webpack-jquery-ui/index.js\");\n/* harmony import */ var webpack_jquery_ui__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(webpack_jquery_ui__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var webpack_jquery_ui_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! webpack-jquery-ui/css */ \"./node_modules/webpack-jquery-ui/css.js\");\n/* harmony import */ var webpack_jquery_ui_css__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(webpack_jquery_ui_css__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var jquery_ui_touch_punch_jquery_ui_touch_punch__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! jquery-ui-touch-punch/jquery.ui.touch-punch */ \"./node_modules/jquery-ui-touch-punch/jquery.ui.touch-punch.js\");\n/* harmony import */ var jquery_ui_touch_punch_jquery_ui_touch_punch__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(jquery_ui_touch_punch_jquery_ui_touch_punch__WEBPACK_IMPORTED_MODULE_7__);\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n$(document).ready(function() {\r\n    $('[data-toggle=\"tooltip\"]').tooltip();\r\n\r\n    $('.add-to-cart-btn').click(function() {  // اظهار رسالة التنبيه للمنتج بأنه اضيف للعربة \r\n        alert('أضيف المنتج الى العربة ');\r\n    });\r\n\r\n    $('#copyright').text(\"جميع الحقوق محفوظة سنة\" + new Date().getFullYear());\r\n\r\n    $('.product-option input[type=\"radio\"]').change(function() {\r\n        $(this).parents('.product-option').siblings().removeClass('active');\r\n        $(this).parents('.product-option').addClass('active');\r\n    });\r\n\r\n    //عند تغيير كمية المنتج \r\n    $('[data-product-quantity]').change(function () {\r\n\r\n        //اجلب الكمية الجديدة \r\n        var newQuantity= $(this).val();\r\n\r\n        // ابحث عن السطر الذي يحتوي معلومات هذا المنتج \r\n        var parent = $(this).parents('[data-product-info]');\r\n\r\n        // اجلب سعر القطعة الواحدة عن معلومات المنتج \r\n        var pricePerUnit = parent.attr('data-product-price');\r\n\r\n        // السعر الاجمالي للمنتج هو سعر القطعة مضروبا بعددها \r\n        var totalPriceForProduct = newQuantity * pricePerUnit;\r\n\r\n        // عين السعر الجديد ضمن خلية السعر الاجمالي للمنتج في هذا السطر \r\n        parent.find('.total-price-for-product').text(totalPriceForProduct + '$');\r\n\r\n        // حدث السعر الاجمالي لكل المنتجات \r\n        calculateTotalPrice();\r\n    });\r\n\r\n    $('[data-remove-from-cart]').click(function() {\r\n        $(this).parents('[data-product-info]').remove();\r\n        // اعد حساب السعر الاجمالي بعد حذف احد المنتجات \r\n        calculateTotalPrice();\r\n    });\r\n\r\n    function calculateTotalPrice() {\r\n        // انشئ متغيرا جديدا لحفظ السعر الاجمالي \r\n        var totalPriceForAllProducts = 0;\r\n\r\n        // لكل سطر يمثل معلومات المنتج في الصفحة \r\n        $('[data-product-info]').each(function() {\r\n\r\n            // اجلب سعر القطعة الواحدة من الخاصية الموافقة \r\n            var pricePerUnit = $(this).attr('data-product-price');\r\n\r\n            // اجلب كمية المنتج من حقل اختيار الكمية \r\n            var quantity = $(this).find('[data-product-quantity]').val();\r\n\r\n            var totalPriceForProduct = pricePerUnit * quantity;\r\n\r\n            // اضف السعر الاجمالي لهذا المنتج الى السعر الاجمالي لكل المنتجات واحفظ القيكة في المتغير نفسه \r\n            totalPriceForAllProducts = totalPriceForAllProducts + totalPriceForProduct;\r\n        });\r\n\r\n        // حدث السعر الاجمالي لكل المنتجات في الصفحة \r\n        $('#total-price-for-all-products').text(totalPriceForAllProducts + '$');\r\n    }\r\n\r\n    var citiesByCountry = {\r\n        sa: ['الرياض' , 'جدة'],\r\n        eg: ['القاهرة' , 'الاسكندرية'],\r\n        je: ['عمان' , 'الزرقاء'],\r\n        sy: ['دمشق' , 'حلب' , 'حماء']\r\n\r\n    };\r\n\r\n    // عندما يتغير البلد \r\n    $('#form-checkout select[name=\"country\"]').change(function() {\r\n        // اجلب رمز البلد \r\n        var country = $(this).val();\r\n\r\n        // اجلب مدن هذا البلد من المصفوفة \r\n        var cities = citiesByCountry[country];\r\n\r\n        // فرغ قائمة المدن \r\n        $('#form-checkout select[name=\"city\"]').empty();\r\n\r\n        // اضافة خيار اختر مدينة \r\n        $('#form-checkout select[name=\"city\"]').append(\r\n            '<option disabled selected value=\"\">اختر المدينة</option>'\r\n        );\r\n\r\n        // اضف المدن الى قائمة المدن \r\n        cities.forEach(function(city) {\r\n            var newOption = $('<option></option');\r\n            newOption.text(city);\r\n            newOption.val(city);\r\n            $('#form-checkout select[name=\"city\"]').append(newOption);\r\n        });\r\n    });\r\n\r\n    // عند تغيير طريقة الدفع \r\n    $('#form-checkout input[name=\"payment_method\"]').change(function() {\r\n\r\n        // اجلب القيمة المختارة حاليا \r\n        var paymentMethod = $(this).val();\r\n\r\n        if (paymentMethod === 'on_delivery') {\r\n\r\n            // اذا كانت عند الاستلام فعطل حقول بطاقة الائتمان\r\n            $('#credit-card-info input').prop('disabled', true);\r\n\r\n        } else {\r\n\r\n            // والا افعلها \r\n            $('#credit-card-info input').prop('disabled', false);\r\n        }\r\n\r\n        // بدل معلومات بطاقة الائتمان بين الظهور والاخفاء\r\n        $('#credit-card-info').toggle();\r\n    });\r\n\r\n    // مكون البحث حسب السعر \r\n    $(\"#price-range\").slider({\r\n        range: true,\r\n        min: 50,\r\n        max: 1000,\r\n        step: 50,\r\n        values: [ 250, 800 ],\r\n        slide: function(event, ui) {\r\n            $('#price-min').text(ui.values[0]);\r\n            $('#price-max').text(ui.values[1]);\r\n        }\r\n        \r\n    });\r\n});\n\n//# sourceURL=webpack://ecummerc/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _SCSS_custom_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./SCSS/custom.scss */ \"./src/SCSS/custom.scss\");\n/* harmony import */ var _scss_style_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./scss/style.scss */ \"./src/scss/style.scss\");\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./css/style.css */ \"./src/css/style.css\");\n/* harmony import */ var bootstrap_dist_js_bootstrap_min_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! bootstrap/dist/js/bootstrap.min.js */ \"./node_modules/bootstrap/dist/js/bootstrap.min.js\");\n/* harmony import */ var bootstrap_dist_js_bootstrap_min_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(bootstrap_dist_js_bootstrap_min_js__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var jquery_dist_jquery_min__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! jquery/dist/jquery.min */ \"./node_modules/jquery/dist/jquery.min.js\");\n/* harmony import */ var jquery_dist_jquery_min__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(jquery_dist_jquery_min__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _fortawesome_fontawesome_free_js_all_min__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @fortawesome/fontawesome-free/js/all.min */ \"./node_modules/@fortawesome/fontawesome-free/js/all.min.js\");\n/* harmony import */ var _fortawesome_fontawesome_free_js_all_min__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_fontawesome_free_js_all_min__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var webpack_jquery_ui__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! webpack-jquery-ui */ \"./node_modules/webpack-jquery-ui/index.js\");\n/* harmony import */ var webpack_jquery_ui__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(webpack_jquery_ui__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var webpack_jquery_ui_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! webpack-jquery-ui/css */ \"./node_modules/webpack-jquery-ui/css.js\");\n/* harmony import */ var webpack_jquery_ui_css__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(webpack_jquery_ui_css__WEBPACK_IMPORTED_MODULE_7__);\n/* harmony import */ var jquery_ui_touch_punch_jquery_ui_touch_punch__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! jquery-ui-touch-punch/jquery.ui.touch-punch */ \"./node_modules/jquery-ui-touch-punch/jquery.ui.touch-punch.js\");\n/* harmony import */ var jquery_ui_touch_punch_jquery_ui_touch_punch__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(jquery_ui_touch_punch_jquery_ui_touch_punch__WEBPACK_IMPORTED_MODULE_8__);\n\r\n// import '@laylazi/bootstrap-rtl-scss/scss/bootstrap-rtl.scss';\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n$(document).ready(function() {\r\n    $('[data-toggle=\"tooltip\"]').tooltip();\r\n\r\n    $('.add-to-cart-btn').click(function() {  // اظهار رسالة التنبيه للمنتج بأنه اضيف للعربة \r\n        alert('أضيف المنتج الى العربة ');\r\n    });\r\n\r\n    $('#copyright').text(\"جميع الحقوق محفوظة سنة\" + new Date().getFullYear());\r\n\r\n    $('.product-option input[type=\"radio\"]').change(function() {\r\n        $(this).parents('.product-option').siblings().removeClass('active');\r\n        $(this).parents('.product-option').addClass('active');\r\n    });\r\n\r\n    //عند تغيير كمية المنتج \r\n    $('[data-product-quantity]').change(function () {\r\n\r\n        //اجلب الكمية الجديدة \r\n        var newQuantity= $(this).val();\r\n\r\n        // ابحث عن السطر الذي يحتوي معلومات هذا المنتج \r\n        var parent = $(this).parents('[data-product-info]');\r\n\r\n        // اجلب سعر القطعة الواحدة عن معلومات المنتج \r\n        var pricePerUnit = parent.attr('data-product-price');\r\n\r\n        // السعر الاجمالي للمنتج هو سعر القطعة مضروبا بعددها \r\n        var totalPriceForProduct = newQuantity * pricePerUnit;\r\n\r\n        // عين السعر الجديد ضمن خلية السعر الاجمالي للمنتج في هذا السطر \r\n        parent.find('.total-price-for-product').text(totalPriceForProduct + '$');\r\n\r\n        // حدث السعر الاجمالي لكل المنتجات \r\n        calculateTotalPrice();\r\n    });\r\n\r\n    $('[data-remove-from-cart]').click(function() {\r\n        $(this).parents('[data-product-info]').remove();\r\n        // اعد حساب السعر الاجمالي بعد حذف احد المنتجات \r\n        calculateTotalPrice();\r\n    });\r\n\r\n    function calculateTotalPrice() {\r\n        // انشئ متغيرا جديدا لحفظ السعر الاجمالي \r\n        var totalPriceForAllProducts = 0;\r\n\r\n        // لكل سطر يمثل معلومات المنتج في الصفحة \r\n        $('[data-product-info]').each(function() {\r\n\r\n            // اجلب سعر القطعة الواحدة من الخاصية الموافقة \r\n            var pricePerUnit = $(this).attr('data-product-price');\r\n\r\n            // اجلب كمية المنتج من حقل اختيار الكمية \r\n            var quantity = $(this).find('[data-product-quantity]').val();\r\n\r\n            var totalPriceForProduct = pricePerUnit * quantity;\r\n\r\n            // اضف السعر الاجمالي لهذا المنتج الى السعر الاجمالي لكل المنتجات واحفظ القيكة في المتغير نفسه \r\n            totalPriceForAllProducts = totalPriceForAllProducts + totalPriceForProduct;\r\n        });\r\n\r\n        // حدث السعر الاجمالي لكل المنتجات في الصفحة \r\n        $('#total-price-for-all-products').text(totalPriceForAllProducts + '$');\r\n    }\r\n\r\n    var citiesByCountry = {\r\n        sa: ['الرياض' , 'جدة'],\r\n        eg: ['القاهرة' , 'الاسكندرية'],\r\n        je: ['عمان' , 'الزرقاء'],\r\n        sy: ['دمشق' , 'حلب' , 'حماء']\r\n\r\n    };\r\n\r\n    // عندما يتغير البلد \r\n    $('#form-checkout select[name=\"country\"]').change(function() {\r\n        // اجلب رمز البلد \r\n        var country = $(this).val();\r\n\r\n        // اجلب مدن هذا البلد من المصفوفة \r\n        var cities = citiesByCountry[country];\r\n\r\n        // فرغ قائمة المدن \r\n        $('#form-checkout select[name=\"city\"]').empty();\r\n\r\n        // اضافة خيار اختر مدينة \r\n        $('#form-checkout select[name=\"city\"]').append(\r\n            '<option disabled selected value=\"\">اختر المدينة</option>'\r\n        );\r\n\r\n        // اضف المدن الى قائمة المدن \r\n        cities.forEach(function(city) {\r\n            var newOption = $('<option></option');\r\n            newOption.text(city);\r\n            newOption.val(city);\r\n            $('#form-checkout select[name=\"city\"]').append(newOption);\r\n        });\r\n    });\r\n\r\n    // عند تغيير طريقة الدفع \r\n    $('#form-checkout input[name=\"payment_method\"]').change(function() {\r\n\r\n        // اجلب القيمة المختارة حاليا \r\n        var paymentMethod = $(this).val();\r\n\r\n        if (paymentMethod === 'on_delivery') {\r\n\r\n            // اذا كانت عند الاستلام فعطل حقول بطاقة الائتمان\r\n            $('#credit-card-info input').prop('disabled', true);\r\n\r\n        } else {\r\n\r\n            // والا افعلها \r\n            $('#credit-card-info input').prop('disabled', false);\r\n        }\r\n\r\n        // بدل معلومات بطاقة الائتمان بين الظهور والاخفاء\r\n        $('#credit-card-info').toggle();\r\n    });\r\n\r\n    // مكون البحث حسب السعر \r\n    $(\"#price-range\").slider({\r\n        range: true,\r\n        min: 50,\r\n        max: 1000,\r\n        step: 50,\r\n        values: [ 250, 800 ],\r\n        slide: function(event, ui) {\r\n            $('#price-min').text(ui.values[0]);\r\n            $('#price-max').text(ui.values[1]);\r\n        }\r\n        \r\n    });\r\n});\n\n//# sourceURL=webpack://ecummerc/./src/index.js?");
 
 /***/ })
 
@@ -1334,7 +1345,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _lay
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("6198d6852229928c6a90")
+/******/ 		__webpack_require__.h = () => ("6c0fe45f3a2979056eff")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
