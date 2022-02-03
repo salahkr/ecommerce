@@ -11,7 +11,7 @@
  * RTL rev. 1 (https://github.com/PerseusTheGreat/bootstrap-rtl)
  */
 /*!**************************************************************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss ***!
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/SCSS/style.scss ***!
   \**************************************************************************************************************/.custom-table td:not(:first-child),.custom-table th:not(:first-child){text-align:center}@media (max-width:991px){.ui-slider .ui-slider-handle{height:20px!important;top:-10px!important;width:20px!important}}
 /*!
  * Bootstrap v4.6.1 (https://getbootstrap.com/)
