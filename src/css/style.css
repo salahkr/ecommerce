@@ -249,7 +249,8 @@ body {
 /*تنسيق عارض الصور */
 .custom-carousel-indicators-primary {
     top: 235px;
-    right: 40%;
+    right: 30%;
+    text-align: center;
 }
 /*تنسيق عارض الصور */
 .custom-carousel-indicators-primary img {
@@ -1007,6 +1008,10 @@ contact page
     .custom-navbar .navbar-nav li a.nav-link {
         padding: 8px;
     }
+
+    .carousel-indicators {
+        margin-left: 10%;
+    }
 }
 /*الشاشات المتوسطة */
 @media (max-width: 991px) and (min-width: 768px) {
@@ -1016,6 +1021,7 @@ contact page
 }
 /*الشاشات المتوسطة */
 @media (max-width: 991px) {
+
     .custom-navbar {
         padding: 15px 20px 30px;
     }
@@ -1096,6 +1102,8 @@ contact page
         font-size: 150%;
         margin-top: 10px;
     }
+
+    
 
     /*product-page*/
     .product-option {
